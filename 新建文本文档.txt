@@ -1,5 +1,0 @@
-javapackages-tools-3.4.1-11.el7.noarch
-tzdata-java-2017c-1.el7.noarch
-python-javapackages-3.4.1-11.el7.noarch
-java-1.8.0-openjdk-headless-1.8.0.161-0.b14.el7_4.x86_64
-java-1.8.0-openjdk-1.8.0.161-0.b14.el7_4.x86_64
